@@ -1,6 +1,6 @@
-token=NTEyNzM4OTcwNjI3NjA0NDky.Ds-byw.OzJH8Hcn-qnlY91gmKNzuTiS0pA
-owner=505811134528356352
-prefix=J
-game=JustGroup
+token=NTEyOTcxODQ3ODEwMTU0NTA3.DtBN9g.c-dO8c1K5DzUWrH9yfrQnANnC3g
+owner=482929875947225113
+prefix=1 
+game=1help
 stayinchannel=true
 songinstatus=true
