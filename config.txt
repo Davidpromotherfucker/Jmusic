@@ -1,6 +1,6 @@
-token=NTEyOTcxODg4MjI2NDY3ODQ2.DtBPfA.8AOs9sEbrzKzT3GbtQKVV3G9zNs
-owner=482929875947225113
-prefix=2
-game=2help
+token=NTEyNzM4OTcwNjI3NjA0NDky.DtBQnA.j457dV_uap1fkOeJlHpcVfD-A5M
+owner=465325351132856321
+prefix=J
+game=Jhelp
 stayinchannel=true
 songinstatus=true
